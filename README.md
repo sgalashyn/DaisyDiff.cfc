@@ -2,6 +2,8 @@
 
 Modern CFML wrapper for [DaisyDiff](http://code.google.com/p/daisydiff/) Java library.
 
+Please see the library project page for the CSS and images for styling the output.
+
 ## Requirements
 
 Library uses modern CFScript syntax, so it requires at least Adobe ColdFusion 9 or Railo 3.2 engine to work.
